@@ -22,6 +22,15 @@
     <string name="button_scaffold_screen">Контейнер Scaffold</string>
     <string name="menu">меню</string>
     <string name="compose_app">MyComposeApp</string>
+    <string name="android">Android</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="ios">Ios</string>
+    <string name="swift">SWIFT</string>
+    <string name="architecture_android">Усовершенствованная архитектура Android</string>
+    <string name="study_kotlin">Изучение Kotlin</string>
+    <string name="korutin_kotlin">Корутин в Kotlin</string>
+    <string name="button_scrolling_screen">Колонка со скроллингом</string>
+
 
 
 </resources>
