@@ -24,12 +24,14 @@
     <string name="compose_app">MyComposeApp</string>
     <string name="android">Android</string>
     <string name="kotlin">Kotlin</string>
-    <string name="ios">Ios</string>
+    <string name="ios">IOS</string>
     <string name="swift">SWIFT</string>
     <string name="architecture_android">Усовершенствованная архитектура Android</string>
     <string name="study_kotlin">Изучение Kotlin</string>
     <string name="korutin_kotlin">Корутин в Kotlin</string>
     <string name="button_scrolling_screen">Колонка со скроллингом</string>
+    <string name="image_book">Обложки книг</string>
+    <string name="button_list">Список</string>
 
 
 
